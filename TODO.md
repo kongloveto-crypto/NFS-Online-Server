@@ -14,7 +14,7 @@ below are planned work rather than guarantees for a particular release.
 - [ ] Reduce noisy logs and make warnings and failures actionable.
 - [ ] Test long-running servers, concurrent races, and clean shutdown/restart.
 
-## Original-binary compatibility
+## Original-binary compatibility 
 
 - [ ] Make the server interoperable with the unmodified/original Windows game
       binaries for Underground 2, Most Wanted, and Carbon.
